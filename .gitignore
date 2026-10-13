@@ -1,0 +1,9 @@
+﻿dataset/
+Model/*.pt
+Model/*.pth
+Model/*.onnx
+__pycache__/
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+.env
+.env.*

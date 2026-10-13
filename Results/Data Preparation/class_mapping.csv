@@ -1,0 +1,7 @@
+coco_category_id,yolo_class_id,class_name,supercategory
+1,0,dent,
+2,1,scratch,
+3,2,crack,
+4,3,glass shatter,
+5,4,lamp broken,
+6,5,tire flat,

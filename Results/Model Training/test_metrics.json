@@ -1,0 +1,8 @@
+{
+  "checkpoint": "/content/drive/MyDrive/Phase_04_Optimized_Training/yolo26m_896_musgd_cardd_v2/weights/best.pt",
+  "split": "test",
+  "precision": 0.7531425073121808,
+  "recall": 0.7167201197450527,
+  "mAP50": 0.721346810091141,
+  "mAP50_95": 0.5587761515646287
+}

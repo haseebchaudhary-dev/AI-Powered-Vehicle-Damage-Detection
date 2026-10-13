@@ -1,0 +1,47 @@
+[
+  {
+    "split": "train",
+    "label_files": 1977,
+    "total_boxes": 4336,
+    "empty_label_files": 0,
+    "malformed_lines": 0,
+    "class_counts": {
+      "dent": 1270,
+      "scratch": 1774,
+      "crack": 454,
+      "glass shatter": 333,
+      "lamp broken": 347,
+      "tire flat": 158
+    }
+  },
+  {
+    "split": "val",
+    "label_files": 416,
+    "total_boxes": 947,
+    "empty_label_files": 0,
+    "malformed_lines": 0,
+    "class_counts": {
+      "dent": 265,
+      "scratch": 401,
+      "crack": 102,
+      "glass shatter": 72,
+      "lamp broken": 74,
+      "tire flat": 33
+    }
+  },
+  {
+    "split": "test",
+    "label_files": 423,
+    "total_boxes": 928,
+    "empty_label_files": 0,
+    "malformed_lines": 0,
+    "class_counts": {
+      "dent": 271,
+      "scratch": 385,
+      "crack": 95,
+      "glass shatter": 70,
+      "lamp broken": 73,
+      "tire flat": 34
+    }
+  }
+]
