@@ -1,9 +1,4 @@
 
-
-
-\
-
-
 ## Overview
 
 **AI Powered Vehicle Damage Detector** is a computer vision and deep learning application designed to assist vehicle damage inspection by automatically detecting and classifying visible damage in vehicle images.
